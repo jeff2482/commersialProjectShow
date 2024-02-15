@@ -1,0 +1,11 @@
+[general]
+view_width = 6000
+
+[theme]
+primaryColor="#8FC0A9"
+backgroundColor="#FAF3DD"
+secondaryBackgroundColor="#C8D5B9"
+textColor="#2D3142"
+font="sans serif"
+
+
